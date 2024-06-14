@@ -4,8 +4,8 @@ A hook used in react-router apps that solves common problems:
 
 ## Problem 1
 
-- Your web app has modals which open and have the ability to be closed by an X or similar
-- Your modals have sub-routes which the user can navigate through
+- Your web app has modals (under urls) which open and have the ability to be closed by an X or similar
+- Your modals also have sub-routes/sub-pages which the user can navigate through, pushing to the history stack
 - When you click the X, you want to close the entire modal and go back to where you opened it from, regardless of where you navigated to since opening it
 
 ```tsx
