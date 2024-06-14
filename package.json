@@ -1,0 +1,24 @@
+{
+  "name": "usebacknavigation",
+  "version": "1.0.0",
+  "description": "Smarter back routing for react-router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinline/useBackNavigation.git"
+  },
+  "keywords": [
+    "react-router",
+    "browser",
+    "back"
+  ],
+  "author": "Justin Focus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinline/useBackNavigation/issues"
+  },
+  "homepage": "https://github.com/justinline/useBackNavigation#readme"
+}
